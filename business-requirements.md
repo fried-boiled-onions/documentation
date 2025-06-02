@@ -22,8 +22,8 @@
 - Поиск по контактам
 
 **Технологии**: 
-- Frontend: React + Vite JS + HTML/CSS
-- Backend: 
+- Frontend: React + Vite, JS, HTML/CSS, SignalR
+- Backend: C#, ASP.NET Postgres, SignalR, Docker, Docker Compose
 - База: PostgreSQL
 
 ## Пользовательские сценарии
